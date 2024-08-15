@@ -10,7 +10,7 @@ Download CentOS ISO: Visit the CentOS website and download the ISO file for the 
 
 ## Step 3: Create a New Virtual Machine
 
-### Open VirtualBox: Launch VirtualBox and click the "Machine" button and a drop-down will appear.
+##### Open VirtualBox: Launch VirtualBox and click the "Machine" button and a drop-down will appear.
       
 ![vbox 00](https://github.com/user-attachments/assets/26490bfd-4a04-42ac-90c6-bb26b1220f3b)
 
