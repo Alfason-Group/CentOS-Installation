@@ -5,9 +5,9 @@ Download VirtualBox: Go to the VirtualBox website and download the latest versio
 Install VirtualBox: Follow the installation instructions for your operating system to install VirtualBox.
 
 Step 2: Download CentOS ISO
-```
-Download CentOS ISO: Visit the CentOS website and download the ISO file for the CentOS version you want to install.
-```
+
+- Download CentOS ISO: Visit the CentOS website and download the ISO file for the CentOS version you want to install.
+
 
 ## Step 3: Create a New Virtual Machine
 
