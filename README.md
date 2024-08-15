@@ -12,12 +12,12 @@ Download CentOS ISO: Visit the CentOS website and download the ISO file for the 
 ## Step 3: Create a New Virtual Machine
 
 ##### 1. Open VirtualBox: Launch VirtualBox and click the "Machine" button and a drop-down will appear.
-      
-![vbox 00](https://github.com/user-attachments/assets/26490bfd-4a04-42ac-90c6-bb26b1220f3b)
-
-##### 2. Click on the "Machine" button to create a new virtual machine
 
 ![vbox 0](https://github.com/user-attachments/assets/5651d756-1bea-4014-8951-e62146ce4ebe)
+      
+##### 2. Click on the "New" button to create a new virtual machine
+
+![vbox 00](https://github.com/user-attachments/assets/26490bfd-4a04-42ac-90c6-bb26b1220f3b)
 
 ##### 3. Name the VM: Enter a name for your VM (e.g., "CentOS VM"), and for "ISO Image" add the location of the CentOS iso file you downloaded earlier.
 ##### Check "Skip Unattended Installation"
