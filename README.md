@@ -19,7 +19,7 @@ click on the "Machine" button to create a new virtual machine
 
 
 Name the VM: Enter a name for your VM (e.g., "CentOS VM"), and for "ISO Image" add the location of the CentOS iso file you downloaded earlier.
-Check "Unattended Installation"
+Check "Skip Unattended Installation"
 
 ![vbox 1](https://github.com/user-attachments/assets/9bf31497-5961-4872-9942-9a31f3d783f7)
 
@@ -30,7 +30,7 @@ Allocate Memory and Processor: Set the memory size (e.g., 2048 MB/1 CPU or more 
 
 
 Create a Virtual Hard Disk: Choose "Create a virtual hard disk now" and click "Create."
-Set Disk Size: Allocate the desired size for your virtual hard disk (e.g., 20 GB) and click "Create."
+Set Disk Size: Allocate the desired size for your virtual hard disk (e.g., 50 GB) and click "Create."
 Storage on Physical Hard Disk: Choose "Dynamically allocated" and click "Next."
 
 ![vbox 3](https://github.com/user-attachments/assets/4e6d4094-8b85-4dd3-be34-189854977b43)
