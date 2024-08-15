@@ -17,10 +17,9 @@ click on the "Machine" button to create a new virtual machine
 
 ![vbox 0](https://github.com/user-attachments/assets/5651d756-1bea-4014-8951-e62146ce4ebe)
 
-Hard Disk File Type: Choose "VDI (VirtualBox Disk Image)" and click "Next."
-
 
 Name the VM: Enter a name for your VM (e.g., "CentOS VM"), and for "ISO Image" add the location of the CentOS iso file you downloaded earlier.
+Check "Unattended Installation"
 
 ![vbox 1](https://github.com/user-attachments/assets/9bf31497-5961-4872-9942-9a31f3d783f7)
 
