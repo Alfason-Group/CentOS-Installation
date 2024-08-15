@@ -31,7 +31,6 @@ Allocate Memory and Processor: Set the memory size (e.g., 2048 MB/1 CPU or more 
 
 Create a Virtual Hard Disk: Choose "Create a virtual hard disk now" and click "Create."
 Set Disk Size: Allocate the desired size for your virtual hard disk (e.g., 50 GB) and click "Create."
-Storage on Physical Hard Disk: Choose "Dynamically allocated" and click "Next."
 
 ![vbox 3](https://github.com/user-attachments/assets/4e6d4094-8b85-4dd3-be34-189854977b43)
 
