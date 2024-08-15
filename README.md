@@ -29,6 +29,7 @@ Storage on Physical Hard Disk: Choose "Dynamically allocated" and click "Next."
 
 
 Click on "Finish"
+
 ![vbox 4](https://github.com/user-attachments/assets/8cd16d3a-ed52-40ab-9963-24c750dd43f2)
 
 Storage Settings: Go to the "Storage" tab, click on "Empty" under "Controller: IDE," and then click on the disk icon to choose a virtual optical disk file.
