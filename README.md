@@ -10,33 +10,32 @@ Download CentOS ISO: Visit the CentOS website and download the ISO file for the 
 
 ## Step 3: Create a New Virtual Machine
 
-##### Open VirtualBox: Launch VirtualBox and click the "Machine" button and a drop-down will appear.
+##### 1. Open VirtualBox: Launch VirtualBox and click the "Machine" button and a drop-down will appear.
       
 ![vbox 00](https://github.com/user-attachments/assets/26490bfd-4a04-42ac-90c6-bb26b1220f3b)
 
-click on the "Machine" button to create a new virtual machine
+##### 2. Click on the "Machine" button to create a new virtual machine
 
 ![vbox 0](https://github.com/user-attachments/assets/5651d756-1bea-4014-8951-e62146ce4ebe)
 
 
-Name the VM: Enter a name for your VM (e.g., "CentOS VM"), and for "ISO Image" add the location of the CentOS iso file you downloaded earlier.
+##### 3. Name the VM: Enter a name for your VM (e.g., "CentOS VM"), and for "ISO Image" add the location of the CentOS iso file you downloaded earlier.
 Check "Skip Unattended Installation"
 
 ![vbox 1](https://github.com/user-attachments/assets/9bf31497-5961-4872-9942-9a31f3d783f7)
 
-
-Allocate Memory and Processor: Set the memory size (e.g., 2048 MB/1 CPU or more depending on your system’s capability).
+##### 4. Allocate Memory and Processor: Set the memory size (e.g., 2048 MB/1 CPU or more depending on your system’s capability).
 
 ![vbox 2](https://github.com/user-attachments/assets/c3d291a1-651e-48bd-a08f-9ceae80d5c34)
 
 
-Create a Virtual Hard Disk: Choose "Create a virtual hard disk now" and click "Create."
-Set Disk Size: Allocate the desired size for your virtual hard disk (e.g., 50 GB) and click "Create."
+##### 5.Create a Virtual Hard Disk: Choose "Create a virtual hard disk now" and click "Create."
+#### Set Disk Size: Allocate the desired size for your virtual hard disk (e.g., 50 GB) and click "Create."
 
 ![vbox 3](https://github.com/user-attachments/assets/4e6d4094-8b85-4dd3-be34-189854977b43)
 
 
-Click on "Finish"
+##### 6. Click on "Finish"
 
 ![vbox 4](https://github.com/user-attachments/assets/8cd16d3a-ed52-40ab-9963-24c750dd43f2)
 
