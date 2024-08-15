@@ -9,7 +9,7 @@ Step 2: Download CentOS ISO
     Download CentOS ISO: Visit the CentOS website and download the ISO file for the CentOS version you want to install.
 ## Step 3: Create a New Virtual Machine
 
-Open VirtualBox: Launch VirtualBox and click on the "Machine" button and a drop-down will appear.
+Open VirtualBox: Launch VirtualBox and click the "Machine" button and a drop-down will appear.
       
 ![vbox 00](https://github.com/user-attachments/assets/26490bfd-4a04-42ac-90c6-bb26b1220f3b)
 
@@ -20,7 +20,7 @@ click on the "Machine" button to create a new virtual machine
 Hard Disk File Type: Choose "VDI (VirtualBox Disk Image)" and click "Next."
 
 
-Name the VM: Enter a name for your VM (e.g., "CentOS VM") and choose "Linux" as the type and "Red Hat (64-bit)" as the version.
+Name the VM: Enter a name for your VM (e.g., "CentOS VM"), and for "ISO Image" add the location of the CentOS iso file you downloaded earlier.
 
 ![vbox 1](https://github.com/user-attachments/assets/9bf31497-5961-4872-9942-9a31f3d783f7)
 
