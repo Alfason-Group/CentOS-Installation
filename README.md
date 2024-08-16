@@ -8,31 +8,33 @@ Use the link below:
 
       https://www.virtualbox.org/wiki/Downloads
 
-- 1
+Locate the location of the downloaded virtual box file and double-click on the file      
+
+- 1. Click "Next" to start the installation process
 
 ![vbox 1](https://github.com/user-attachments/assets/3e6d8996-5803-4b72-8290-59bffa68a6ef)
 
-- 2
+- 2. Click "Next" to install the selected features
 
 ![vbox 2](https://github.com/user-attachments/assets/940cccd2-e9e3-491b-b58e-9c828cb78fe3)
 
-- 3
+- 3. Click "Next" to proceed with the installation
 
 ![vbox 3](https://github.com/user-attachments/assets/04bb03be-a92f-4c66-bb37-4a00187088d1)
 
-- 4
+- 4. Click "Yes" to continue
 
 ![vbox 4](https://github.com/user-attachments/assets/a16c9f94-2afd-4741-81b9-fdbc265c132d)
 
-- 5
+- 5. Click "Next" as this section will select the way you want virtual box features to be installed
 
 ![vbox 5](https://github.com/user-attachments/assets/39290e30-475a-4488-9aea-e533f5e9c11e)
 
-- 6
+- 6. Click "Install" to do the installation
 
 ![vbox 6](https://github.com/user-attachments/assets/7ad9d71a-6f4d-489d-9f85-938c89ab64a4)
 
-- 7
+- 7. Click "Finish" to complete the installation
 
 ![vbox 7](https://github.com/user-attachments/assets/23b78e1e-c415-44b7-ab89-76a98e9f9f9b)
 
