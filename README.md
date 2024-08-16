@@ -1,10 +1,48 @@
 # CentOS-Installation
-Step 1: Download and Install VirtualBox
+## Step 1: Download and Install VirtualBox
 
 Download VirtualBox: Go to the VirtualBox website and download the latest version of VirtualBox for your operating system.
 Install VirtualBox: Follow the installation instructions for your operating system to install VirtualBox.
 
-Step 2: Download CentOS ISO
+Use the link below:
+
+      https://www.virtualbox.org/wiki/Downloads
+
+- 1
+
+![vbox 1](https://github.com/user-attachments/assets/3e6d8996-5803-4b72-8290-59bffa68a6ef)
+
+- 2
+
+![vbox 2](https://github.com/user-attachments/assets/940cccd2-e9e3-491b-b58e-9c828cb78fe3)
+
+- 3
+
+![vbox 3](https://github.com/user-attachments/assets/04bb03be-a92f-4c66-bb37-4a00187088d1)
+
+- 4
+
+![vbox 4](https://github.com/user-attachments/assets/a16c9f94-2afd-4741-81b9-fdbc265c132d)
+
+- 5
+
+![vbox 5](https://github.com/user-attachments/assets/39290e30-475a-4488-9aea-e533f5e9c11e)
+
+- 6
+
+![vbox 6](https://github.com/user-attachments/assets/7ad9d71a-6f4d-489d-9f85-938c89ab64a4)
+
+- 7
+
+![vbox 7](https://github.com/user-attachments/assets/23b78e1e-c415-44b7-ab89-76a98e9f9f9b)
+
+
+
+## Step 2: Download CentOS ISO
+
+Use the link below:
+
+      https://mirrors.centos.org/mirrorlist?path=/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64
 
 Download CentOS ISO: Visit the CentOS website and download the ISO file for the CentOS version you want to install.
 
