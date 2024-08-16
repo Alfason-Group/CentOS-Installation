@@ -44,12 +44,12 @@ Locate the location of the downloaded virtual box file and double-click on the f
 
 Use the link below:
 
-      https://mirrors.centos.org/mirrorlist?path=/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64
+      [https://mirrors.centos.org/mirrorlist?path=/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-latest-x86_64](https://www.centos.org/download/)
 
+click on the "cloud"  of the x86_64  architecture
+      
 ![vbox centos](https://github.com/user-attachments/assets/1046a8a7-df78-40f6-806c-1383532a3f9d)
       
-Download CentOS ISO: Visit the CentOS website and download the ISO file for the CentOS version you want to install.
-
 
 ## Step 3: Create a New Virtual Machine
 
